@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser app.ipynb
+web: dss-project-mmu --port=$PORT --no-browser project.ipynb
