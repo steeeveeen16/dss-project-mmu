@@ -1,1 +1,1 @@
-web: dss-project-mmu --port=$PORT --no-browser project.ipynb
+web: sh setup.sh && streamlit run project.py
