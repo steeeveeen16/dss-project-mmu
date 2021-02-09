@@ -1,3 +1,4 @@
+streamlit==0.76.0
 pandas==0.25.3
 numpy==1.18.1
 boruta==0.3
